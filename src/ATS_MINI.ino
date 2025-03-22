@@ -536,7 +536,7 @@ typedef struct
 
 savedFreqs savedDesc[] = {
   { "> Curr",       FM_BAND_TYPE, 10000 },
-  { "Pershe",       FM_BAND_TYPE, 8820 },
+  { "Pershe",       FM_BAND_TYPE, 8220 },
   { "Radio NV",     FM_BAND_TYPE, 8860 },
   { "Radio Rocks",  FM_BAND_TYPE, 8910 },
   { "Galychyna",    FM_BAND_TYPE, 8970 },
